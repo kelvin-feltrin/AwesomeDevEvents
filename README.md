@@ -1,6 +1,6 @@
 # AwesomeDevEvents
 
-* Leia em [Português](https://github.com/kelvin-feltrin/AwesomeDevEvents/blob/main/README.md)
+* Leia em [Português](https://github.com/kelvin-feltrin/AwesomeDevEvents/blob/main/README-pt.md)
 
 ## About the project
 The "AwesomeDevEvents" is an REST API project about programming events. It's possible to create, list, update and delete events and speakers. 
