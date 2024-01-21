@@ -1,9 +1,9 @@
 # AwesomeDevEvents
 
-
+* Leia em [Português](https://github.com/kelvin-feltrin/AwesomeDevEvents/blob/main/README.md)
 
 ## About the project
-The "AwesomeDevEvents" is an REST API project about programming events. It's possbile to create, list, update and delete events and speakers. 
+The "AwesomeDevEvents" is an REST API project about programming events. It's possible to create, list, update and delete events and speakers. 
 
 The system can be used with Swagger interface, and the project uses ASP.NET Core, Entity Framework Core, Swagger and AutoMapper. The data is stored using a connection to a SQL Server database and migrations to generate the tables.
 
@@ -16,5 +16,5 @@ Project based on LuisDev's tutorial: [Curso Criando REST APIs com ASP.NET Core](
 - ASP.NET Core
 - AutoMapper
 - Entity Framework Core
-- Swagger
 - SQL Server
+- Swagger
